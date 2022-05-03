@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	m2 "personal-budget/module2"
+	m2 "github.com/pvs2401/golang-personal-budget-cli/module2"
 	"time"
 )
 
